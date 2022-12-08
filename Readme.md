@@ -1,12 +1,10 @@
 # Computer Vision Labs
 
-
+## Requirements
 
 ## Lab1 - 9 
 
 Using `opencv-python`
-
-Requirements
 
 - python 3.6
 - opencv-contrib-python 3.3
